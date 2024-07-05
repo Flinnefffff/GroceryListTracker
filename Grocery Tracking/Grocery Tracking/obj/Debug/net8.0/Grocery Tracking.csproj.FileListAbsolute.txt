@@ -1,0 +1,62 @@
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.csproj.AssemblyReference.cache
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.AssemblyInfoInputs.cache
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.AssemblyInfo.cs
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Grocery Tracking.exe
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Grocery Tracking.deps.json
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Grocery Tracking.runtimeconfig.json
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Grocery Tracking.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Grocery Tracking.pdb
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery .4BDF7770.Up2Date
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\refint\Grocery Tracking.dll
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.pdb
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\Grocery Tracking.genruntimeconfig.cache
+C:\Users\Huy\source\repos\Grocery Tracking\Grocery Tracking\obj\Debug\net8.0\ref\Grocery Tracking.dll
